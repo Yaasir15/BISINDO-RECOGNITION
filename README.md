@@ -13,3 +13,5 @@ Devi Andista Pratiwi
     
 3.  File recognise
     Untuk menjalankan program bisindo recognition
+    
+Please feel free to ask any questions @ leni.hidayaty@gmail.com or deviandistapratiwi664@gmail.com.
