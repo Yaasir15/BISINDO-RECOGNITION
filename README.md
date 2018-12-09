@@ -1,6 +1,6 @@
 # BISINDO-RECOGNITION
-Kelompok: Leni Hidayaty & Devi Andista Pratiwi 
-Kelas AI-B
+Leni Hidayaty 
+Devi Andista Pratiwi 
 
 1.  File dataset_capture
     Untuk membuat dataset yaitu data training sebanyak 23400 gambar dan testing 2600 gambar. Data tersebut dapat diunduh pada link berikut. 
